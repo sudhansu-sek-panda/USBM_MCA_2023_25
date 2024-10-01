@@ -1,0 +1,44 @@
+great user intrface and robust codebase 
+Frontend and Backend 
+Examples
+HTML Structure
+CSS -
+Client Server 
+Whateve
+
+Frontend Server Backend 
+10 ^3 mili second = 1 second
+404 web page not available
+
+Java Script 
+HTML,  TYPESCRIPT 
+ecma is a standard 
+
+language - 
+programming language - A language which is used to cmmunicate with the computers.
+Java script samsung or oppo. Javascript is a programming language or not?
+Backend + Frontend = Node Js Cloud Kitchen. It is an Environment to run JavaScript.
+Cloud Kitchen.
+Node js is a run time environment.
+A library is a set of usefull books.
+
+
+use, reuse, a sturucture for web developer. 
+
+Scalar
+
+Variable - A container which holds some items.
+Fragile.
+Movers and Packers.Fragile item. I 
+Variables - Storage locations with assigned names.
+Hold data that you can change or use later
+Hold data that you can change or use later.
+But not in every case, we could restrict the containers.
+var, let and containersvar - Function scoped variable, can be reasigned.
+let - Block scoped, can be re assigned.
+const - Constant. 
+let, var, const are keywords
+var
+variable, keywords let, var, const, let var const, let var const, let var, const, let var, const, let var const, let var const,
+let var const is a keyword not data types;
+
