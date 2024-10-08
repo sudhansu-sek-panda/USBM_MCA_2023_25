@@ -14,9 +14,6 @@ integers = whole number.
 Whole number = Positive number + Negetive Number
 floating number in Java Script
 
-
-
-
 */
 
 let number =50;
