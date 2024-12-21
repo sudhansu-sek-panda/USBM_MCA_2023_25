@@ -1,0 +1,46 @@
+                                                                  Express
+````````````````````````````````````````
+It is a framework of node js.
+It is fast and minimalistic
+It is used for web application $ APLs.
+
+
+-> Simplifies the HTTP request and response.
+-> RESTful Routing
+-> Middleware Support.
+-> Easy Integration with database.
+
+Two types of database are there -> 
+1 - Structure Query Language
+2 - No Structure Query Language
+
+
+Postgree, Oracle SQL, Microsoft Server SQL, MySQL, MongoDb
+-> How to install express
+
+
+run commands
+-> npm init -y
+-> npm i express
+
+
+Middleware
+Middleware in express.js refers to a function that has access to req, res and next
+
+req-res cycle
+Application 
+
+
+
+
+=> Built in 
+=> Third Part
+=> Custom
+
+Built in - Express.json
+Third Part - CORS, MORGON
+Custome - example - Log Middleware
+vite - 5173
+
+ni filename.extension
+run ->   npm i nodemon express
