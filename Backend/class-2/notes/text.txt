@@ -1,0 +1,27 @@
+require('os')
+require('path')
+mkdir notes
+ni os.js
+ni text.js
+ni path.js
+ni text.text
+ni .gitignore
+ni .env
+
+.gitignore
+`````````````````
+ignore files 
+node_modules
+.env
+xyz
+
+.env  -  hide the necesssary contents from the users
+`````````
+local id 
+password
+server'port number
+mongo db url 
+
+
+
+
